@@ -2,13 +2,13 @@
 		"title": "Byte X Mainnet",
 		"url": "https://bytescan.io/",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/Bytedex-Technologies/bytex-assets/main/logo_mobile.svg",
-		"isActive": true
+		"icon": "https://raw.githubusercontent.com/Bytedex-Technologies/bytex-assets/main/logo_mobile.svg"
 	},
 	{
 		"title": "Byte X Testnet",
 		"url": "https://test.bytescan.io/",
 		"group": "Testnets",
-		"icon": "https://raw.githubusercontent.com/Bytedex-Technologies/bytex-assets/main/logo_mobile.svg"
+		"icon": "https://raw.githubusercontent.com/Bytedex-Technologies/bytex-assets/main/logo_mobile.svg",
+		"isActive": true
 	}
 ]
