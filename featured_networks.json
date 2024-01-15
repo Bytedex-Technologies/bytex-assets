@@ -1,0 +1,14 @@
+[{
+		"title": "Byte X Mainnet",
+		"url": "https://bytescan.io/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/Bytedex-Technologies/bytex-assets/main/logo_mobile.svg",
+		"isActive": true
+	},
+	{
+		"title": "Byte X Testnet",
+		"url": "https://test.bytescan.io/",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/Bytedex-Technologies/bytex-assets/main/logo_mobile.svg"
+	}
+]
