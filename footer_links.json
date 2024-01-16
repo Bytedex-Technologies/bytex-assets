@@ -1,0 +1,41 @@
+[{
+		"title": "Byte XC",
+		"links": [{
+				"text": "Home",
+				"url": "https://bytexc.io/"
+			},
+			{
+				"text": "Governance(Coming Soon)",
+				"url": "https://bytexc.org/"
+			},
+			{
+				"text": "XBridge(Coming Soon)",
+				"url": "https://bytecrypto.io/"
+			},
+			{
+				"text": "Byte MX(Coming Soon)",
+				"url": "https://bytemx.io/"
+			},
+			{
+				"text": "The Vision(Coming Soon)",
+				"url": "#"
+			},
+			{
+				"text": "The Vault(Coming Soon)",
+				"url": "#"
+			},
+			{
+				"text": "XCoin",
+				"url": "https://bytexc.io/xcoin"
+			},
+			{
+				"text": "Support",
+				"url": "https://bytedex.freshdesk.com/"
+			},
+			{
+				"text": "Contact Us",
+				"url": "https://bytedex.io/contact-us"
+			}
+		]
+	}
+]
